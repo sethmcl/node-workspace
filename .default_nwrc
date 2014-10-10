@@ -1,0 +1,4 @@
+module.exports = {
+  // Default configuration
+  clonePath: 'workspace'
+};
