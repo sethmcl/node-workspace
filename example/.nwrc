@@ -1,0 +1,6 @@
+module.exports = {
+  projects: {
+    'venus-conf': 'venusjs/venus-conf',
+    'venus-annotations': 'venusjs/venus-annotations',
+  }
+};
